@@ -2,7 +2,7 @@
 ![Profile Views](https://gpvc.arturio.dev/hanhanhanafi)
 ![image](https://img.shields.io/github/followers/hanhanhanafi?label=follow&style=social)
     
-a **Junior Web Developer** from **Indonesia**.
+a **Junior Web Developer** from **Indonesia**, **Garut** city **West Java**
 
 ### Talking about Personal Stuffs:
   - ❤️ I'm currently fall in love with Codeigniter
