@@ -9,6 +9,6 @@ Hi there, I'm **Hanhan Hanafi**, a **Web Developer** from Indonesia.
   - 📫 You can reach me at <a href="mailto:me.hanhanhanafi@gmail.com">me.hanhanhanafi@gmail.com</a>
   
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hanhanhanafi&show_icons=true&theme=calm" height=178 />
+    <img src="https://github-readme-stats.vercel.app/api?username=hanhanhanafi&show_icons=true&bg_color=DEG,#8E2DE2,#4A00E0" height=178 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhanhanafi&layout=compact" height=178 />
 </p>
