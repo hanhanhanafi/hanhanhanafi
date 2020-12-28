@@ -15,6 +15,6 @@ A **Junior Web Developer** from **Indonesia**, **Garut** city **West Java**
     <b>Let's connect !</b><br>
     <br>
     <a href="https://www.linkedin.com/in/hanhanhanafi" target="blank"><img alt="Hanafi LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://web.facebook.com/me.hanhanhanafi/" target="blank"><img alt="Hanafi Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+    <a href="https://web.facebook.com/me.hanhanhanafi/" target="blank"><img alt="Hanafi Facebook" width="22px" src="https://pasteboard.co/JGXnXbi.png" /></a>
     <a href="https://twitter.com/hanhanhanafi15" target="blank"><img alt="Hanafi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 </p>
