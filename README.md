@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Hanhan Hanafi!
+### Hi all <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Hanhan Hanafi!
 ![Profile Views](https://gpvc.arturio.dev/hanhanhanafi)
 ![image](https://img.shields.io/github/followers/hanhanhanafi?label=follow&style=social)
     
