@@ -1,8 +1,8 @@
-
-### Hi all <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Hanhan Hanafi !
 ![Profile Views](https://gpvc.arturio.dev/hanhanhanafi)
 ![image](https://img.shields.io/github/followers/hanhanhanafi?label=follow&style=social)
     
+### Hi all <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Hanhan Hanafi !
+
 a **Junior Web Developer** from **Indonesia**, **Garut** city **West Java**
 
 ### Talking about Personal Stuffs:
@@ -13,8 +13,8 @@ a **Junior Web Developer** from **Indonesia**, **Garut** city **West Java**
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhanhanafi&layout=compact&theme=tokyonight" height=178 />
 </p>
 <p align="center">
-    <b>Let's connect !</b>
-    <a href="https://www.linkedin.com/in/hanhanhanafi" target="blank"><img align="left" alt="Hanafi LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://web.facebook.com/me.hanhanhanafi/" target="blank"><img align="left" alt="Hanafi Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-    <a href="https://twitter.com/hanhanhanafi15" target="blank"><img align="left" alt="Hanafi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+    <b>Let's connect !</b><br>
+    <a href="https://www.linkedin.com/in/hanhanhanafi" target="blank"><img alt="Hanafi LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://web.facebook.com/me.hanhanhanafi/" target="blank"><img alt="Hanafi Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+    <a href="https://twitter.com/hanhanhanafi15" target="blank"><img alt="Hanafi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 </p>
