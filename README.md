@@ -4,6 +4,10 @@
 
 A **Junior Web Developer** from **Indonesia**, **Garut** city **West Java**
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/lT4AKdHB7OW3Z37GMH/giphy.webp" width="200">
+</p>
+
 ### Talking about Personal Stuffs:
   - ❤️ I'm currently fall in love with Codeigniter
   - 📫 You can reach me at <a href="mailto:me.hanhanhanafi@gmail.com">me.hanhanhanafi@gmail.com</a>
