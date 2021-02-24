@@ -11,10 +11,10 @@ A **Junior Web Developer** from **Indonesia**, **Garut** city **West Java**
 ### Talking about Personal Stuffs:
   - ❤️ I'm currently fall in love with Codeigniter
   - 📫 You can reach me at <a href="mailto:me.hanhanhanafi@gmail.com">me.hanhanhanafi@gmail.com</a>
-<p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hanhanhanafi&show_icons=true&theme=tokyonight" height=178 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhanhanafi&layout=compact&theme=tokyonight" height=178 />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=hanhanhanafi&column=7&theme=dracula" alt="halfrost's Github Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hanhanhanafi&column=7&theme=dracula" alt="halfrost's Github Trophy" />
 </p>
 <p align="center">
     <b>Let's connect !</b><br>
